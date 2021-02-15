@@ -10,6 +10,8 @@ class Block extends BaseClass {
       }else{
         World.remove(world, this.body);
         push()
+        tint(255,this.visiblity)
+        this.visiblity-=5
         this.visiblity = this.visiblity -1;
         pop()
       }
