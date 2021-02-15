@@ -90,36 +90,61 @@ function draw(){
     polygon.display()
 
     block1.display()
+    block1.score();
     block2.display()
+    block2.score();
     block3.display()
+    block3.score();
     block4.display()
+    block4.score();
     block5.display()
+    block5.score();
     block6.display()
+    block6.score();
     block7.display()
+    block7.score();
 
     block8.display()
+    block8.score();
     block9.display()
+    block9.score();
     block10.display()
+    block10.score();
     block11.display()
+    block11.score();
     block12.display()
+    block12.score();
 
     block13.display()
+    block13.score();
     block14.display()
+    block14.score();
     block15.display()
+    block15.score();
 
     block16.display()
+    block16.score();
 
     block17.display()
+    block17.score();
     block18.display()
+    block18.score();
     block19.display()
+    block19.score();
     block20.display()
+    block20.score();
     block21.display()
+    block21.score();
 
     block22.display()
+    block22.score();
     block23.display()
+    block23.score();
     block24.display()
+    block24.score();
 
     block25.display()
+    block25.score();
     
     ground1.display()
     ground2.display()
